@@ -9,4 +9,4 @@ This pipeline repository was forked and customized from the RHTAP [pipeline defi
 
 Modify the template placeholders to match your Backstage template variables. 
 
-For example, `{{values.rawUrl}}` and `{{ values.image }}` gets updated by the [ai-lab-template repository](https://github.com/redhat-ai-dev/ai-lab-template) script [update-tekton-definition](https://github.com/redhat-ai-dev/ai-lab-template/blob/33bda4738a82d71360ec98e111d16624e3392910/scripts/update-tekton-definition#L22-L23).
+For example, `{{values.rawUrl}}` and `{{ values.image }}` gets updated by the [rhdh-ai-template repository](https://github.com/redhat-developer/rhdh-ai-template) script [update-tekton-definition](https://github.com/redhat-developer/rhdh-ai-template/blob/33bda4738a82d71360ec98e111d16624e3392910/scripts/update-tekton-definition#L22-L23).
